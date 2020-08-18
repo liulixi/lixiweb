@@ -8,6 +8,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "echarts": "^4.8.0",
+    "echarts-gl": "^1.1.1",
+    "lib-flexible": "^0.3.2",
+    "postcss-plugin-px2rem": "^0.8.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
